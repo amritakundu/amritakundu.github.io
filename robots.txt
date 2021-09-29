@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /amritakundu.github.io/sitemap.xml
